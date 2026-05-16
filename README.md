@@ -42,7 +42,7 @@ export HF_ENDPOINT=https://hf-mirror.com
 
 # Dataset Structure
 
-Download the AbdomenAtlas 3.0 dataset.
+Download the dataset from [[ICCV 2025] AbdomenAtlas 3.0 (9,262 CT volumes + medical reports)](https://github.com/MrGiovanni/RadGPT)
 
 ## CT Images
 
@@ -110,8 +110,8 @@ Output directory:
     BDMAP_xxx.graph.json
   embeddings/
     BDMAP_xxx.text_emb.npz
-  extracted/             # optional
-  failed_raw_txt/
+  failed/
+    failed_ids.txt
 ```
 
 Each graph JSON stores:
@@ -121,6 +121,7 @@ Each graph JSON stores:
 - attribute nodes
 - relational edges
 - lesion volume / HU for weak supervision
+- extracted structured report fields in `meta.extracted`
 
 Each embedding file stores:
 
