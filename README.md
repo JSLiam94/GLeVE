@@ -49,9 +49,9 @@ Download the dataset from [[ICCV 2025] AbdomenAtlas 3.0 (9,262 CT volumes + medi
 ```text
 data/altas/Image_only/
   BDMAP_xxx/
-    ct.nii
+    ct.nii.gz
   BDMAP_yyy/
-    ct.nii
+    ct.nii.gz
 ```
 
 ## Segmentation Masks
@@ -64,9 +64,9 @@ the final segmentation labels.
 ```text
 data/altas/combined_labels/
   BDMAP_xxx/
-    combined_labels.nii
+    combined_labels.nii.gz
   BDMAP_yyy/
-    combined_labels.nii
+    combined_labels.nii.gz
 ```
 
 Mask label mapping:
