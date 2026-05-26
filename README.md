@@ -7,6 +7,7 @@
 # News
 
 - **2026.05**: **GLeVE** has been **Early Accepted by MICCAI 2026**.
+- Paper (arXiv): https://arxiv.org/abs/2605.22619
 
 <p align="center">
   <img src="imgs/Overview.png" width="90%">
