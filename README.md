@@ -2,6 +2,12 @@
 
 ## GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT
 
+---
+
+# News
+
+- **2026.05**: **GLeVE** has been **Early Accepted by MICCAI 2026**.
+
 <p align="center">
   <img src="imgs/Overview.png" width="90%">
 </p>
@@ -256,3 +262,18 @@ Octree-based autoregressive refinement:
 ### Visual Backbone
 
 3D MedFormer encoder-decoder.
+
+
+---
+
+# Citation
+
+If you find this project useful, please cite:
+
+```bibtex
+@article{jiang2026gleve,
+  title={{GLeVE}: Graph-Guided Lesion Grounding with Proposal Verification in {3D} {CT}},
+  author={Jiang, Shuo and Hong, Yuhao and Jiang, Chunbo and Chen, Weihong and Chen, Huangwei and Zhu, Shenghao and Wu, Beining and Liu, Mingxuan and Zhu, Zhu and Qin, Feiwei and others},
+  journal={arXiv preprint arXiv:2605.22619},
+  year={2026}
+}
