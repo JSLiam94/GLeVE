@@ -5,7 +5,8 @@
 ---
 
 # News
-
+- **2026.10**: 📄 [MICCAI 2026 Paper](https://link.springer.com/chapter/10.1007/978-3-032-38059-3_17)
+- **2026.09**: **GLeVE** has been nominated and shortlisted for the MICCAI Best Paper and Young Scientist Award.
 - **2026.05**: **GLeVE** has been **Early Accepted by MICCAI 2026**.
 - Paper (arXiv): https://arxiv.org/abs/2605.22619
 
