@@ -272,9 +272,10 @@ Octree-based autoregressive refinement:
 If you find this project useful, please cite:
 
 ```bibtex
-@article{jiang2026gleve,
-  title={{GLeVE}: Graph-Guided Lesion Grounding with Proposal Verification in {3D} {CT}},
-  author={Jiang, Shuo and Hong, Yuhao and Jiang, Chunbo and Chen, Weihong and Chen, Huangwei and Zhu, Shenghao and Wu, Beining and Liu, Mingxuan and Zhu, Zhu and Qin, Feiwei and others},
-  journal={arXiv preprint arXiv:2605.22619},
-  year={2026}
+@InProceedings{GLeVE_MICCAI2026,
+author="Jiang, Shuo and Hong, Yuhao and Jiang, Chunbo and Chen, Weihong and Chen, Huangwei and Zhu, Shenghao and Wu, Beining and Liu, Mingxuan and Zhu, Zhu and Qin, Feiwei and Tan, Min and Chen, Yifei",
+title="GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT",
+booktitle="Proceedings of Medical Image Computing and Computer Assisted Intervention",
+year="2026",
+pages="173--183",
 }
